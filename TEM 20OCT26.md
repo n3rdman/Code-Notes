@@ -20,3 +20,7 @@
 
 Definition of Done (DOD) == SOVT
     * Clear Maintenance tasks associated to MRC's.
+
+### Breakout session
+
+* Discussed Stacks and what locations would need them based on Operational Requirements.
