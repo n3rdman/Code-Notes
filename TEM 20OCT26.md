@@ -1,0 +1,22 @@
+### Just including notes from this meeting.
+
+## Idea: 
+
+* RACI: Added Capability for Mission Owner (The Ship)
+
+* BLOCKER: Biggest issue is the integration with the tools. Not that one is truly that much better then any other. 
+    Clearly work through process mapping for issues. With true user feedback, what is that Feedback Loop? 
+
+* Utilizing ADO for backlog/blockers. How can we help 
+
+* Neptune Cloud Concierge- Onboarding process/request
+
+# Questions: 
+    * Where is the Military Test FSE stack? Is it needed and where? 
+    * Who owns GITHUB? Is it in the right place? Can/should it exist in on prem for ships?
+    * Why not use DISA data centers? Focus on Shipboard instead.
+    * What applications are containerized from Azure side?
+    * Engineers should not be creating user stories. What is the user feedback loop?
+
+Definition of Done (DOD) == SOVT
+    * Clear Maintenance tasks associated to MRC's.
